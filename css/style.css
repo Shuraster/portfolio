@@ -95,6 +95,10 @@ header small{
    font-weight: 700;
    text-transform: uppercase;
 }
+.portfolio-block_item{
+	margin-bottom: 30px;
+}
+
 .portfolio-text {
    color: #8f8f8f;
    font-size: 14px;
